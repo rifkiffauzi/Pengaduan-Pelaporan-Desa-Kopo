@@ -25,7 +25,7 @@ Dashboard
     <form action="{{ route('pengaduan.store')}} " method="POST" enctype="multipart/form-data">
       @csrf
 
-      <div class="px-4 py-3 mb-8 bg-red-300 rounded-lg shadow-xl border-2 dark:bg-gray-800">
+      <div class="px-4 py-3 mb-8 bg-green-300 rounded-lg shadow-xl border-2 dark:bg-gray-800">
         <label class="block text-sm">
           <h2 class="my-6 text-2xl font-semibold text-center text-gray-700 dark:text-gray-200">
            Form Laporan

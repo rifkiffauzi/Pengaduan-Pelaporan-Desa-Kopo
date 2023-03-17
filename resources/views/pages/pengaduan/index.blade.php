@@ -257,7 +257,7 @@
                       </td>
                       <td class="px-4 py-3 text-xs">
                         <span
-                          class="px-2 py-1 font-semibold leading-tight text-red-700 bg-red-100 rounded-full dark:text-red-100 dark:bg-red-700"
+                          class="px-2 py-1 font-semibold leading-tight text-green-700 bg-green-100 rounded-full dark:text-green-100 dark:bg-green-700"
                         >
                           Denied
                         </span>
@@ -341,7 +341,7 @@
                         <span
                           class="px-2 py-1 font-semibold leading-tight text-gray-700 bg-gray-100 rounded-full dark:text-gray-100 dark:bg-gray-700"
                         >
-                          Expired
+                          Expigreen
                         </span>
                       </td>
                       <td class="px-4 py-3 text-sm">

@@ -81,7 +81,7 @@ img{
     border-radius: 4px;
   }
   .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-    border-color: #00384e;
+    border-color: #3D9E49;
   }
   .contact .php-email-form input {
     height: 44px;
@@ -90,7 +90,7 @@ img{
     padding: 5px 12px;
   }
   .contact .php-email-form button[type=submit] {
-    background: #00384e;
+    background: #3D9E49;
     border: 0;
     padding: 10px 24px;
     color: #fff;

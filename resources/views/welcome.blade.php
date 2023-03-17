@@ -40,7 +40,7 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Layanan Laporan Pengaduan Masyarakat Desa Kopo</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">Sampaikan laporan masalah Anda di sini, kami akan memprosesnya dengan cepat , aman dan nyaman.</h2>
+          <h2 data-aos="fade-up" data-aos-delay="400">“Berani LAPOR! Untuk Pelayanan Publik yang Lebih Baik”</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="{{ url('login')}}" class="btn-get-started scrollto">Laporkan!</a>
            
@@ -97,7 +97,7 @@
               <div class="row">
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
-                    <i class="bi bi-emoji-smile"></i>
+                    <i class="bi bi-people"></i>
                     <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="1" class="purecounter"></span>
                     <p><strong>Pengguna</strong><br>DAFTAR pengguna APLIKASIKU</p>
                   </div>
@@ -105,7 +105,7 @@
 
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
-                    <i class="bi bi-journal-richtext"></i>
+                    <i class="bi bi-megaphone"></i>
                     <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
                     <p><strong>Pengaduan</strong> <br> Jumlah pengaduan yg sudah dilaporkan</p>
                   </div>
@@ -113,8 +113,8 @@
 
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
-                    <i class="bi bi-clock"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
+                    <i class="bi bi-check-circle"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="95" data-purecounter-duration="1" class="purecounter"></span>
                     <p><strong>Tuntas</strong> <br> Jumlah laporan yg sudah ditangani</p>
                   </div>
                 </div>
@@ -141,16 +141,16 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class='bx bxs-edit-alt'></i></div>
-              <h4 class="title"><a href="">Kirim Laporan</a></h4>
-              <p class="description">Tulis laporan keluhan Anda dengan jelas.</p>
+              <h4 class="title"><a href="">Tulis Laporan</a></h4>
+              <p class="description">Laporkan keluhan atau aspirasi anda dengan jelas dan lengkap</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bx bx-shuffle"></i></div>
+              <div class="icon"><i class="bi bi-arrow-repeat"></i></div>
               <h4 class="title"><a href="">Proses Verifikasi</a></h4>
-              <p class="description">Tunggu sampai laporan Anda di verifikasi oleh admin/petugas.</p>
+              <p class="description">Dalam 24 jam, laporan Anda akan diverifikasi dan diteruskan kepada instansi berwenang</p>
             </div>
           </div>
 
@@ -158,7 +158,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4 class="title"><a href="">Tindak Lanjut</a></h4>
-              <p class="description">Laporan Anda sedang dalam diproses dan ditindak lanjut.</p>
+              <p class="description">Laporan Anda sedang dalam diproses dan segera ditindak lanjuti oleh pihak berwenang.</p>
             </div>
           </div>
 
